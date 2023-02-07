@@ -13,9 +13,7 @@ root.render(
     <div className="App">
     <footer>
       This project was created by Vera Pinheiro and is {" "}
-    <a href="https://github.com/arevys/weather-react"
-    target="_blank"
-    rel="nonreferrer">
+    <a href="https://github.com/arevys/weather-react">
      open-sourced on Github
     </a>
     </footer>
