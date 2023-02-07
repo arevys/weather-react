@@ -10,6 +10,15 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <App />
+    <div className="App">
+    <footer>
+      This project was created by Vera Pinheiro and is {" "}
+    <a href="https://github.com/arevys/weather-react"
+    target="_blank">
+     open-sourced on Github
+    </a>
+    </footer>
+  </div>
   </React.StrictMode>
 );
 
