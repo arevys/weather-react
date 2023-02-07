@@ -15,7 +15,7 @@ root.render(
       This project was created by Vera Pinheiro and is {" "}
     <a href="https://github.com/arevys/weather-react"
     target="_blank">
-     open-sourced on Github
+     open-sourced on Github 👋
     </a>
     </footer>
   </div>
